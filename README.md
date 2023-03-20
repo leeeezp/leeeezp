@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ### 📚 Skills
 
-<img src="https://skillicons.dev/icons?i=golang,cpp,python,java,docker,git" /><br>
+<img src="https://skillicons.dev/icons?i=golang,cpp,python,docker,git" /><br>
 
 ### 🦁 Commit Stats
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeezp&show_icons=true&theme=github_dark)
+
